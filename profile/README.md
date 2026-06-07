@@ -1,8 +1,10 @@
 # Botgram
 
+
+
 **AI-powered Telegram bots for your business.**
 
-Botgram is a SaaS platform that configures and deploys intelligent Telegram bots tailored to your business — from a custom setup or a ready-to-use template. No technical skills required.
+Botgram is a SaaS platform that configures and deploys intelligent Telegram bots tailored to your business, from a custom setup or a ready-to-use template. No technical skills required.
 
 ---
 
